@@ -1,0 +1,67 @@
+
+
+
+opções do menu
+(1)jogar //obs caso o arrombado escolha essa opção o jogo vai ser jogado na
+opção padrao (1 jogador vs maquina e com 2500 creditos)
+(2)configurações de jogo // as configurações serao apenas para o numero de creditos
+e para o numero de jogadores
+(3)sair
+
+//dentro das configurações
+(1)numero de creditos
+(2)numero de jogadores
+(3)numero de rodadas
+
+(1)escolha o numero de creditos que voce deseja começar //obs: eu ate pensei na opçao de digitar mas ai vira bagunça
+(a)2500 (padrao)
+(b)3000
+(c)3500
+(d)4000
+
+                     e/ou
+(2) numero de jogadores
+(a) 1 (padrao)
+(b) 2
+(c) 3
+(d) 4
+
+                      e/ou
+
+(3)numero de rodadas
+(a)03
+(b)05
+(c)07
+(d)10
+
+                            Dentro do jogo :
+
+Digite o valor que deseja apostar // obs : o pagamento pode ser feito por 1.5 do valor
+
+
+O dealer tem uma carta com face pra baixo e um 3 , voce obteve um 7 e um 8
+o que gostaria de fazer?
+(1)pedir mais uma carta
+(2)encerrar a sua vez
+(3)desistir do seu jogo
+
+
+//se o arrombado escolher a opção 1
+voce obteve um 9, seu total é 23 ... que pena! voce perdeu essa rodada :(
+                              ou
+voce obteve um 6, seu total é 21... Parabens , voce venceu :)
+
+
+// se o arrombado e escolher a opção 2
+o dealer vira sua carta e é um 7
+o dealer compra um as , seu total é 21, o dealer vence :(
+deseja jogar novamente?
+(1)sim
+(2)não
+
+  ao fim de 10 rodadas totais o jogo se encerra e ganha quem tiver com mais creditos
+
+// função random
+distribuir as cartas de forma aleatória e sem repetir durante a rodada
+
+limite de 11 cartas para cada jogador ao máximo
