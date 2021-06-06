@@ -438,7 +438,7 @@ int jogar (int num_jogadores, int rodadas, jogador jogador[4], dealer computador
       rodada(num_jogadores, jogador, computador, baralho, sorteada, cred_Total);
       for (int i = 0; i < num_jogadores; i++)
       {
-        printf("Fichas do Jogador %d - %d \n",jogador[i].id ,jogador[i].creditos);
+        printf("Fichas do Jogador %d créditos - jogador %d \n",jogador[i].id ,jogador[i].creditos);
       }
     }
     else if (i==rodadas)
@@ -468,7 +468,7 @@ int jogar (int num_jogadores, int rodadas, jogador jogador[4], dealer computador
         }
         else
         {
-          printf("Fichas do Jogador %d - %d \n",jogador[i].id ,jogador[i].creditos);
+          printf("Fichas do Jogador %d créditos - jogador %d \n",jogador[i].id ,jogador[i].creditos);
         }
 
       }
