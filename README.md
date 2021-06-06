@@ -1,5 +1,6 @@
 # Trabalho 1 de Introdução a C/C++ UFRJ 2020-1 - 21 (Blackjack)
 Trabalho Final de Introdução a C/C++ do jogo 21 (Blackjack) <br>
+*Testado apenas no Linux* <br>
 Para rodar o programa basta rodar <code>./jogo21</code> <br>
 Caso queira compilar o código basta rodar <code>gcc jogo21.c -lncurses -o jogo21</code> <br>
 
@@ -10,6 +11,10 @@ Grupo formado pelos alunos
 <li>João Felipe Veras Dantas Rocha</li>
  <li>Miguel de Miranda Alt</li>
 </ul> 
+
+### Video Introdutório
+***
+
 
 ### Relatório
 ***
