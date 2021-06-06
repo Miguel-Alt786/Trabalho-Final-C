@@ -15,9 +15,9 @@ Grupo formado pelos alunos
 
 ### Video Introdutório
 ***
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=
-" target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gLUCSN0T2TI
+" target="_blank"><img src="http://img.youtube.com/vi/gLUCSN0T2TI/0.jpg" 
+alt="Video mostrando um pouco o projeto" width="240" height="180" border="10" /></a> <br>
  <br>
 
 ### Relatório do projeto
