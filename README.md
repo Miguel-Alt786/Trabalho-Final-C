@@ -20,7 +20,7 @@ Grupo formado pelos alunos
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> <br>
  <br>
 
-### Relatório
+### Relatório do projeto
 ***
 
 Blackjack ou 21 é um jogo de cartas que pode ser jogado entre múltiplos jogadores com o objetivo de chegar a vinte e um ou o mais próximo possivel, é um passatempo bem popular e apesar de sua origem ser desconhecida, teve sua primeira ocorrência em um livro do autor espanhol Miguel de Cervantes. Como mencionado anteriormente, o objetivo do jogo é chegar a "21" ou o mais próximo possível e para isso usa-se um baralho de cinquenta e duas cartas divido em 4 naipes (sendo eles: Ouros, Paus, Copas e Espadas) com cartas numeradas de 2 a 10,  Vale mencionar também as cartas especiais de cada naipe: a Dama, o Valete, o Rei e por fim o Ás que é a carta mais intrigante, essas cartas possuem suas peculiaridades (afinal, como o próprio nome já sugere, são diferentes) o Rei, Valete e Dama valem 10 independentemente do naipe porém o Ás pode valer 1 ou 11, dependendo da mão do jogador ou do bom senso. Também adaptamos as regras do Dealer(O Computador), caso a soma das cartas dele seja menor que 15 ele obrigatóriamente terá que comprar mais cartas até que essa soma seja maior que 15, incluimos tambem a regra de que o Dealer sempre tem vantagem, por exemplo, caso empate entre algum jogador e o Dealer, o Dealer ganha. Por fim, adaptamos as regras caso esteja jogando sozinho, caso seja somente um jogador e o computador, as apostas serão dobradas pelo computador em caso de vitória do jogador.<br>
