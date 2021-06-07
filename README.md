@@ -9,7 +9,7 @@ Grupo formado pelos alunos
 <li>Felipe Monteiro Herculano</li>
 <li>Ian de Andrade Camargo</li>
 <li>João Felipe Veras Dantas Rocha</li>
- <li>Miguel de Miranda Alt</li>
+<li>Miguel de Miranda Alt</li>
 </ul> 
 <br>
 
